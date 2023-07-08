@@ -29,7 +29,6 @@ In this project you will build such a pipeline.
   * [Visualize the pipeline](#visualize-the-pipeline)
   * [Release the pipeline](#release-the-pipeline)
   * [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
-- [Cleaning up](#cleaning-up)
 
 ## Preliminary steps
 ### Fork the Starter kit
@@ -567,3 +566,7 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+## W&B project
+
+W&B project can be accessed using this link https://wandb.ai/khaleddbakri/nyc_airbnb.
